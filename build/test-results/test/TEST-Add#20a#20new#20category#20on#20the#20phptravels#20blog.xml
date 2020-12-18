@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add a new category on the phptravels blog" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T03:24:43" hostname="50HW015948" time="54.609">
+  <properties/>
+  <testcase name="Add a new category on the blog" classname="Add a new category on the phptravels blog" time="54.609"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 17, 2020 10:24:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 29125
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2020 10:24:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
